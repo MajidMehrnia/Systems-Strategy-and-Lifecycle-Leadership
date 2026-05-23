@@ -19,7 +19,7 @@ This simulated project includes:
 
 ---
 
-## Learning Objectives
+## Lessons Learned
 
 - Implement effective communication strategies across the project lifecycle  
 - Apply project management tools for planning, execution, and control  
