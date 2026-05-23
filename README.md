@@ -10,7 +10,6 @@ The aim is to integrate **project management, stakeholder management, communicat
 ## Project Scope
 This simulated project includes:
 
-- Website relaunch planning and execution
 - Stakeholder identification and engagement
 - Communication strategy development
 - Project governance and reporting structure
