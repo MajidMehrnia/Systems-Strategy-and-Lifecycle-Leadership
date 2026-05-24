@@ -21,8 +21,7 @@ Requirements → Product Data → Verification
 
 
 ### 2. Product Data Layer
-- PLM for BOM control, configuration management, and lifecycle governance  
-
+- Siemens Teamcenter for PLM, BOM management, configuration control and lifecycle governance 
 
 ### 3. Verification Layer
 - System simulation, CFD, FEA, and model-based validation  
