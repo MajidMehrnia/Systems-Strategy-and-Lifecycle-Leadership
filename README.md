@@ -8,7 +8,7 @@ It addresses the full project lifecycle, including planning, execution, governan
 
 ## PLM & Systems Engineering Architecture
 
-The project follows an industrial Systems Engineering workflow commonly used in thermal systems.
+The project follows an industrial Systems Engineering workflow commonly used in engineering systems.
 
 Product Lifecycle Management: 
 
