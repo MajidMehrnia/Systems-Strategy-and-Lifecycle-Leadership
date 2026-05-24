@@ -12,7 +12,7 @@ The project follows an industrial Systems Engineering workflow commonly used in 
 
 Product Lifecycle Management: 
 
-**Idea → Concept → Design → Stage-Gate Validation → Build → Test &Iterate → Operate → Retire**
+**Idea → Concept → Design → Stage-Gate Validation → Manufacture → Test & Iterate → Operate → Retire**
 
 ### Workflow Overview
 Requirements → Product Data → Verification  
