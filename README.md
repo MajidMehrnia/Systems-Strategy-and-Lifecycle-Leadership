@@ -4,7 +4,7 @@
 This module focuses on the practical application of project and programme management principles within engineering and technology-driven environments. The project simulates the relaunch of an existing digital platform, covering the complete project lifecycle from planning to execution, governance, and stakeholder alignment.
 
 The aim is to integrate **project management, stakeholder management, communication, and risk management** into a structured, real-world style execution framework.
-<img width="1365" height="709" alt="image" src="https://github.com/user-attachments/assets/ee538c50-7af1-4709-b898-96cf3c915cac" />
+<img width="2994" height="709" alt="image" src="https://github.com/user-attachments/assets/1458a739-6d6e-4d38-9eaa-25236e426dc1" />
 
 ---
 
