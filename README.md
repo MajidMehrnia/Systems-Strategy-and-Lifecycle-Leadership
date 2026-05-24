@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on the lessons learned from applying project and programme management principles within engineering and technology-driven environments in the **Turbomachinery industry**. It covers the complete project lifecycle, from planning and execution to governance, stakeholder alignment, and operational delivery.
 
+Product Lifecycle Management: Idea → Concept → Design → Stage-Gate Validation → Build → Test &Iterate → Operate → Retire
+
 The objective is to integrate **project management, stakeholder management, communication, and risk management** practices from Business Analysis (BA) and Project Management (PM) into a structured, real-world execution framework.
 
 The figure below illustrates the interaction between BA and PM lifecycle leadership, highlighting both their interfaces and distinct responsibilities throughout programme execution.
