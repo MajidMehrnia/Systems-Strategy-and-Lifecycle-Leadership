@@ -3,7 +3,30 @@
 ## Overview
 This project focuses on the lessons learned from applying project and programme management principles within engineering and technology-driven environments in the **Turbomachinery industry**. It covers the complete project lifecycle, from planning and execution to governance, stakeholder alignment, and operational delivery.
 
+
+## PLM & Systems Engineering Architecture
+
+This project follows an industrial Systems Engineering workflow commonly used in turbomachinery and energy systems.
+
 Product Lifecycle Management: Idea → Concept → Design → Stage-Gate Validation → Build → Test &Iterate → Operate → Retire
+
+### 1. Requirements Layer
+- IBM DOORS Next for requirements capture, traceability, and change management  
+
+
+### 2. Product Data Layer
+- PLM for BOM control, configuration management, and lifecycle governance  
+
+
+### 3. Verification Layer
+- System simulation, CFD, FEA, and model-based validation  
+
+
+---
+
+### Workflow Overview
+Requirements → Product Data → Verification  
+(Traceability across full lifecycle)
 
 The objective is to integrate **project management, stakeholder management, communication, and risk management** practices from Business Analysis (BA) and Project Management (PM) into a structured, real-world execution framework.
 
