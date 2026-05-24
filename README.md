@@ -1,12 +1,14 @@
 # Engineering Strategy & Lifecycle Leadership
 
 ## Overview
-This project focuses on the lessons learned from applying project and programme management principles within engineering and technology-driven environments in the Turbomachinery industry. It covers the complete project lifecycle, from planning and execution to governance, stakeholder alignment, and operational delivery.
+This repository captures lessons learned from applying project and programme management principles in engineering and technology-driven environments within the turbomachinery industry.
+
+It addresses the full project lifecycle, including planning, execution, governance, stakeholder alignment, and operational delivery, with a focus on systems thinking and industrial best practices.
 
 
 ## PLM & Systems Engineering Architecture
 
-This project follows an industrial Systems Engineering workflow commonly used in turbomachinery and energy systems.
+The project follows an industrial Systems Engineering workflow commonly used in thermal systems.
 
 Product Lifecycle Management: 
 
