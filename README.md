@@ -13,9 +13,7 @@ It addresses the full project lifecycle, including planning, execution, governan
 
 ## PLM & Systems Engineering Architecture
 
-The project follows an industrial Systems Engineering workflow commonly used in turbomchinery systems.
-
-Product Lifecycle Management: 
+The following Product Lifecycle Management (PLM) workflow reflects a typical industrial Systems Engineering approach used in turbomachinery applications:
 
 **Idea → Concept → Design → Stage-Gate Validation → Manufacture → Test & Iterate → Operate → Retire**
 
