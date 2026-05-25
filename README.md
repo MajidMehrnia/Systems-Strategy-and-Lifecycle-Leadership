@@ -4,7 +4,11 @@
 This repository captures lessons learned from applying project and programme management principles in engineering and technology-driven environments within the turbomachinery industry.
 
 It addresses the full project lifecycle, including planning, execution, governance, stakeholder alignment, and operational delivery, with a focus on systems thinking and industrial best practices.
-<img width="768" height="448" alt="image" src="https://github.com/user-attachments/assets/756dfe0e-e5b5-4aff-a371-6c1f0a7ca9ed" />
+
+<h2 align="center">Product Lifecycle</h2>
+<p align="center">
+<img width="1740" height="425" alt="image" src="https://github.com/user-attachments/assets/471ad37a-243a-4fde-a85a-5fd9aa1aeafd" />
+</p>
 
 
 ## PLM & Systems Engineering Architecture
