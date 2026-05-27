@@ -26,17 +26,15 @@ Requirements → Product Data → Verification
 
 ### 2. Design Layer
 - CAD/CAE using Catia
-- 
+
 ### 3. Verification Layer
-- System simulation, CFD, FEA, and model-based validation using Ansys CFX
+- System simulation, CFD, FEA, and model-based validation using Ansys CFX and Simulink
 
 ### 4. Product lifecycle Layer
 - ENOVIA/3DEXPERIENCE lifecycle and engineering data management for PLM, BOM management, configuration control and lifecycle governance 
 
 ### 5. Enterprise Resource Programs Layer
 - ERP/MRP using SAP
-
-
 
 
 
