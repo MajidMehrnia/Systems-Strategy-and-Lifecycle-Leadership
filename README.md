@@ -18,11 +18,9 @@ The following Product Lifecycle Management (PLM) workflow reflects a typical ind
 **Idea → Concept → Design → Stage-Gate Validation → Manufacture → Test & Iterate → Operate → Retire**
 
 ### Workflow Overview
-Requirements → Product Data → Verification  
-(Traceability across full lifecycle)
 
 ### 1. Requirements Layer
-- IBM DOORS Next for requirements capture, traceability, and change management  
+- IBM DOORS Next for requirements capture, and traceability
 
 ### 2. Design Layer
 - CAD/CAE using Catia
@@ -31,7 +29,7 @@ Requirements → Product Data → Verification
 - System simulation, CFD, FEA, and model-based validation using Ansys CFX and Simulink
 
 ### 4. Product lifecycle Layer
-- ENOVIA/3DEXPERIENCE lifecycle and engineering data management for PLM, BOM management, configuration control and lifecycle governance 
+- ENOVIA/3DEXPERIENCE lifecycle and engineering data management for PLM, BOM management, configuration control, change management and lifecycle governance 
 
 ### 5. Enterprise Resource Programs Layer
 - ERP/MRP using SAP
