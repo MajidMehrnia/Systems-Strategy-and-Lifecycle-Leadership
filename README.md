@@ -24,12 +24,18 @@ Requirements → Product Data → Verification
 ### 1. Requirements Layer
 - IBM DOORS Next for requirements capture, traceability, and change management  
 
-
-### 2. Product Data Layer
-- Siemens Teamcenter for PLM, BOM management, configuration control and lifecycle governance 
-
+### 2. Design Layer
+- CAD/CAE using Catia
+- 
 ### 3. Verification Layer
-- System simulation, CFD, FEA, and model-based validation  
+- System simulation, CFD, FEA, and model-based validation using Ansys CFX
+
+### 4. Product lifecycle Layer
+- ENOVIA/3DEXPERIENCE lifecycle and engineering data management for PLM, BOM management, configuration control and lifecycle governance 
+
+### 5. Enterprise Resource Programs Layer
+- ERP/MRP using SAP
+
 
 
 
