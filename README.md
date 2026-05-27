@@ -17,7 +17,7 @@ The following Product Lifecycle Management (PLM) workflow reflects a typical ind
 
 **Idea → Concept → Design → Stage-Gate Validation → Manufacture → Test & Iterate → Operate → Retire**
 
-### Workflow Overview
+### NPI Workflow Overview
 
 ### 1. Requirements Layer
 - IBM DOORS Next for requirements capture, and traceability
