@@ -10,6 +10,7 @@ This repository serves as a comprehensive knowledge base reflecting over a decad
 
 ## 📂 Excel-based-PLM-Performance-Dashboard: Structure & Sheet Architecture
 
+You can access the workbook here: [PLM Performance Dashboard](PLM-Performance-Dashboard.xlsx). 
 This Excel-based PLM Dashboard is structured into 7 core sheets, establishing a "Single Source of Truth" to bridge technical execution with business profitability:
 
 1. **Documents Management**
