@@ -12,7 +12,7 @@ This repository serves as a comprehensive knowledge base reflecting over a decad
 
 You can access the workbook here: [PLM Performance Dashboard](PLM-Performance-Dashboard.xlsx). 
 
-📥 [Download PLM Performance Dashboard (Excel)](PLM-Performance-Dashboard.xlsx?raw=true)
+📥 [Download PLM Performance Dashboard (Excel)](https://github.com/MajidMehrnia/Systems-Strategy-and-Lifecycle-Leadership/raw/main/PLM-Performance-Dashboard.xlsx)
 This Excel-based PLM Dashboard is structured into 7 core sheets, establishing a "Single Source of Truth" to bridge technical execution with business profitability:
 
 1. **Documents Management**
