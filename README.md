@@ -43,7 +43,7 @@ This Excel-based PLM Dashboard is structured into 7 core sheets, establishing a 
    * Provides a cross-functional, at-a-glance view of overall project health, financial variances, and milestone progress.
 
      
-## PLM & Systems Engineering Architecture in large compnaies
+## ## 📐 Enterprise PLM & Systems Engineering Architecture
 
 The following Product Lifecycle Management (PLM) workflow reflects a typical industrial Systems Engineering approach used in turbomachinery applications:
 
