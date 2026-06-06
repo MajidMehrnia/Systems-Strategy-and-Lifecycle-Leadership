@@ -1,7 +1,7 @@
-# Engineering Strategy & Lifecycle Leadership
+# Engineering Strategy & Product Lifecycle Management
 
 ## Overview
-This repository captures lessons learned from applying project and programme management principles in engineering and technology-driven environments within the turbomachinery industry.
+This repository captures lessons learned from applying programme management principles in engineering and technology-driven environments within the turbomachinery industry.
 
 It addresses the full project lifecycle, including planning, execution, governance, stakeholder alignment, and operational delivery, with a focus on systems thinking and industrial best practices.
 
@@ -10,8 +10,40 @@ It addresses the full project lifecycle, including planning, execution, governan
 <img width="1740" height="425" alt="image" src="https://github.com/user-attachments/assets/471ad37a-243a-4fde-a85a-5fd9aa1aeafd" />
 </p>
 
+## 📂 Excel-based-PLM-Performance-Dashboard: Structure & Sheet Architecture
 
-## PLM & Systems Engineering Architecture
+This Excel-based PLM Dashboard is structured into 7 core sheets, establishing a "Single Source of Truth" to bridge technical execution with business profitability:
+
+1. **Documents Management**
+   * Establishes strict engineering governance and revision control.
+   * Tracks technical specifications, drawings, and foundational requirements to eliminate compliance risks.
+
+2. **BOM Management**
+   * Manages complex multi-level product architectures and structural data.
+   * Streamlines the transition from Engineering Bill of Materials (EBOM) to Manufacturing Bill of Materials (MBOM) across dedicated work centers.
+
+3. **Change Management (Change Log & ECN)**
+   * Provides full traceability for Engineering Change Requests (ECR), Engineering Change Orders (ECO), and Engineering Change Notes (ECN).
+   * Minimizes implementation costs and supply chain disruption through closed-loop change tracking.
+
+4. **Validation and Release Management**
+   * Manages the Verification & Validation (V&V) matrix and test protocols.
+   * Tracks project gate reviews and formal release status prior to mass production or customer delivery.
+
+5. **Risk Management**
+   * Identifies, assesses, and mitigates technical, operational, and supply chain risks.
+   * Aligns project execution with industrial safety and reliability standards to prevent costly delays.
+
+6. **Cost Benefit Analysis**
+   * Models project financials, ROI, target costing, and payback periods.
+   * Links technical engineering optimizations directly to product margin improvements and business KPIs.
+
+7. **Dashboard for Executive Reports**
+   * Features high-level dynamic charts and automated KPIs for senior leadership reviews.
+   * Provides a cross-functional, at-a-glance view of overall project health, financial variances, and milestone progress.
+
+     
+## PLM & Systems Engineering Architecture in large compnaies
 
 The following Product Lifecycle Management (PLM) workflow reflects a typical industrial Systems Engineering approach used in turbomachinery applications:
 
