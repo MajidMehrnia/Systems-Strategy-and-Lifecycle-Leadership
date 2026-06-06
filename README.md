@@ -68,16 +68,11 @@ The following Product Lifecycle Management (PLM) workflow reflects a typical ind
 
 
 
-The objective is to integrate **project management, stakeholder management, communication, and risk management** practices from Business Analysis (BA) and Project Management (PM) into a structured, real-world execution framework.
-
-The figure below illustrates the interaction between BA and PM lifecycle leadership, highlighting both their interfaces and distinct responsibilities throughout programme execution.
-
-<img width="2994" height="709" alt="image" src="https://github.com/user-attachments/assets/35a64d26-3cb6-4693-9972-d4a2e24763ea" />
-
 
 ---
 
 ## Project Scope
+The objective is to integrate **project management, stakeholder management, communication, and risk management** practices from Business Analysis (BA) and Project Management (PM) into a structured, real-world execution framework.
 This simulated project includes:
 
 - Stakeholder identification and engagement
