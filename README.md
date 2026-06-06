@@ -1,9 +1,7 @@
 # Engineering Strategy & Product Lifecycle Management
 
 ## Overview
-This repository captures lessons learned from applying programme management principles in engineering and technology-driven environments within the turbomachinery industry.
-
-It addresses the full project lifecycle, including planning, execution, governance, stakeholder alignment, and operational delivery, with a focus on systems thinking and industrial best practices.
+This repository serves as a comprehensive knowledge base reflecting over a decade of experience in leading complex engineering programmes within the turbomachinery sector. It delivers practical frameworks for the full product lifecycle—encompassing strategic planning, robust engineering governance, stakeholder alignment, and operational execution—underpinned by systems engineering and industry-proven best practices.
 
 <h2 align="center">Product Lifecycle</h2>
 <p align="center">
